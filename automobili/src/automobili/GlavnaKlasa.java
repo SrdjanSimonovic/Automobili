@@ -1,10 +1,18 @@
 package automobili;
 
+import java.util.Scanner;
+
 public class GlavnaKlasa {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		Metode metode = new Metode();
+		metode.ubaciMarku("Fiat", "Italija");
+		
+		
+		
+		
+		
 	}
 
 }
